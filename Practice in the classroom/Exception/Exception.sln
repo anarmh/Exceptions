@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception", "Exception\Exception.csproj", "{7C0C05C8-8DC6-414E-80E2-F17635859FAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{AD70B7EE-73D6-47AA-B0DF-71BB541411B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{17F1F40F-967A-4FB0-AB23-D015DEFB7425}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C0C05C8-8DC6-414E-80E2-F17635859FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0C05C8-8DC6-414E-80E2-F17635859FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0C05C8-8DC6-414E-80E2-F17635859FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0C05C8-8DC6-414E-80E2-F17635859FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD70B7EE-73D6-47AA-B0DF-71BB541411B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD70B7EE-73D6-47AA-B0DF-71BB541411B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD70B7EE-73D6-47AA-B0DF-71BB541411B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD70B7EE-73D6-47AA-B0DF-71BB541411B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F1F40F-967A-4FB0-AB23-D015DEFB7425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F1F40F-967A-4FB0-AB23-D015DEFB7425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F1F40F-967A-4FB0-AB23-D015DEFB7425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F1F40F-967A-4FB0-AB23-D015DEFB7425}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C46FF267-044A-4C92-86F8-A7DA3404CAF9}
+	EndGlobalSection
+EndGlobal
