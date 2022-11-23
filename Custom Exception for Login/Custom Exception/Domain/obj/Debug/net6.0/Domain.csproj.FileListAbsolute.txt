@@ -1,0 +1,12 @@
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Domain\bin\Debug\net6.0\Domain.dll
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Domain\bin\Debug\net6.0\Domain.pdb
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Domain\obj\Debug\net6.0\Domain.dll
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Domain\obj\Debug\net6.0\Domain.pdb
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Domain\obj\Debug\net6.0\ref\Domain.dll

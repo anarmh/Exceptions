@@ -1,0 +1,20 @@
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\bin\Debug\net6.0\Custom Exception.exe
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\bin\Debug\net6.0\Custom Exception.deps.json
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\bin\Debug\net6.0\Custom Exception.runtimeconfig.json
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\bin\Debug\net6.0\Custom Exception.dll
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\bin\Debug\net6.0\Custom Exception.pdb
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\bin\Debug\net6.0\Domain.dll
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\bin\Debug\net6.0\Service.dll
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\bin\Debug\net6.0\Service.pdb
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\bin\Debug\net6.0\Domain.pdb
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\obj\Debug\net6.0\Custom Exception.csproj.AssemblyReference.cache
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\obj\Debug\net6.0\Custom Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\obj\Debug\net6.0\Custom Exception.AssemblyInfoInputs.cache
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\obj\Debug\net6.0\Custom Exception.AssemblyInfo.cs
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\obj\Debug\net6.0\Custom Exception.csproj.CoreCompileInputs.cache
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\obj\Debug\net6.0\Custom Exception.csproj.CopyComplete
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\obj\Debug\net6.0\Custom Exception.dll
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\obj\Debug\net6.0\refint\Custom Exception.dll
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\obj\Debug\net6.0\Custom Exception.pdb
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\obj\Debug\net6.0\Custom Exception.genruntimeconfig.cache
+D:\C#\Exception\Custom Exception for Login\Custom Exception\Custom Exception\obj\Debug\net6.0\ref\Custom Exception.dll
